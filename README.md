@@ -175,7 +175,7 @@ graph TB
 
 <div align="center">
   
-### 💡 "Il codice è poesia, l'innovazione è arte"
+### 💡 "Coding & Chilling along the way"
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
