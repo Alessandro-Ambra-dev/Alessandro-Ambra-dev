@@ -4,9 +4,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full-Stack+Developer+%F0%9F%92%BB;Mobile+Developer+%F0%9F%93%B1;Creo+esperienze+digitali+uniche+%E2%9C%A8" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Alessandro-Ambra-dev&label=Visualizzazioni%20Profilo&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<br/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Alessandro-Ambra-dev&label=Visualizzazioni%20Profilo&color=0e75b6&style=flat" alt="profile views" />
 
 </div>
 
@@ -87,8 +88,14 @@ Sono uno sviluppatore appassionato che ama creare applicazioni web e mobile mode
 </div>
 
 <div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alessandro-Ambra-dev&theme=tokyonight)](https://git.io/streak-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alessandro-Ambra-dev&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alessandro-Ambra-dev&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
 
 </div>
 
@@ -99,20 +106,41 @@ Sono uno sviluppatore appassionato che ama creare applicazioni web e mobile mode
 <div align="center">
 
 ```mermaid
-mindmap
-  root((Alessandro))
-    Full-Stack
-      Frontend Development
-      Backend Development
-      API Design
-    Mobile
-      React Native
-      Expo
-      Cross-platform
-    DevOps
-      CI/CD
-      Cloud Deploy
-      Database Management
+graph TB
+    A[👨‍💻 Alessandro Ambra]
+    
+    A --> B[🎨 Frontend Development]
+    A --> C[⚙️ Backend Development]
+    A --> D[📱 Mobile Development]
+    A --> E[☁️ DevOps & Cloud]
+    
+    B --> B1[React & Next.js]
+    B --> B2[Angular & Vue]
+    B --> B3[HTML/CSS/SCSS]
+    B --> B4[Tailwind CSS]
+    B --> B5[TypeScript]
+    
+    C --> C1[Node.js APIs]
+    C --> C2[Python Backend]
+    C --> C3[Java & C#]
+    C --> C4[SQL Databases]
+    C --> C5[REST & GraphQL]
+    
+    D --> D1[React Native]
+    D --> D2[Expo]
+    D --> D3[Cross-Platform]
+    D --> D4[Mobile UI/UX]
+    
+    E --> E1[AWS Services]
+    E --> E2[Vercel Deploy]
+    E --> E3[Database Management]
+    E --> E4[CI/CD Pipeline]
+    
+    style A fill:#2E9EF7,stroke:#1a73e8,stroke-width:3px,color:#fff
+    style B fill:#61DAFB,stroke:#20232A,stroke-width:2px,color:#000
+    style C fill:#3776AB,stroke:#FFD43B,stroke-width:2px,color:#fff
+    style D fill:#02569B,stroke:#13B9FD,stroke-width:2px,color:#fff
+    style E fill:#FF9900,stroke:#232F3E,stroke-width:2px,color:#000
 ```
 
 </div>
