@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 80" role="img" aria-label="Coding and Chilling along the way">
+  <defs>
+    <filter id="textGlow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <text x="300" y="45" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-style="italic" fill="#2E9EF7" filter="url(#textGlow)">
+    "Coding &amp; Chilling along the way"
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="5s" repeatCount="indefinite"/>
+  </text>
+
+  <line x1="120" y1="60" x2="480" y2="60" stroke="#2E9EF7" stroke-width="1" stroke-opacity="0.3">
+    <animate attributeName="stroke-opacity" values="0.1;0.5;0.1" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="x1" values="200;120;200" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="x2" values="400;480;400" dur="5s" repeatCount="indefinite"/>
+  </line>
+</svg>
